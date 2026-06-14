@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>jupiter.jpg</file>
+        <file>moon.jpg</file>
+        <file>blue_star.png</file>
+        <file>orange_star.jpg</file>
+        <file>red_orange_star.jpg</file>
+        <file>resources.qrc</file>
+        <file>white_star.png</file>
+        <file>yellow_sun_star.png</file>
+        <file>yellow_white_star.png</file>
+    </qresource>
+</RCC>
